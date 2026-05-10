@@ -1,5 +1,7 @@
 # Simon Game
 
+🔗 Live Demo: [Open Project](https://yasu023.github.io/Simon-Game/)
+
 A simple Simon Game built using:
 
 - HTML
